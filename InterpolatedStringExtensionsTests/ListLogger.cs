@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using Microsoft.Extensions.Logging;
 
-namespace InterpolatedLogTest;
+namespace InterpolatedStringExtensionsTests;
 
 public class ListLogger : ILogger
 {

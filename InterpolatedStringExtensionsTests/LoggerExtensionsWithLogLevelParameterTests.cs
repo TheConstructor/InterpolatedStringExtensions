@@ -1,9 +1,9 @@
 using System;
 using System.Collections.Generic;
-using InterpolatedLog;
+using InterpolatedStringExtensions;
 using Microsoft.Extensions.Logging;
 
-namespace InterpolatedLogTest;
+namespace InterpolatedStringExtensionsTests;
 
 [TestClass]
 public class LoggerExtensionsWithLogLevelParameterTests

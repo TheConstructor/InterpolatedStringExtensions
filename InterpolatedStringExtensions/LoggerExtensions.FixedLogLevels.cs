@@ -4,7 +4,7 @@ using System.Runtime.CompilerServices;
 using System.Text;
 using Microsoft.Extensions.Logging;
 
-namespace InterpolatedLog;
+namespace InterpolatedStringExtensions;
 
 public static partial class LoggerExtensions
 {

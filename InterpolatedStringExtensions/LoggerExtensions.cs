@@ -3,7 +3,7 @@ using System.Globalization;
 using System.Text;
 using Microsoft.Extensions.Logging;
 
-namespace InterpolatedLog;
+namespace InterpolatedStringExtensions;
 
 /// <summary>
 /// Extensions for <see cref="ILogger"/> inspired by

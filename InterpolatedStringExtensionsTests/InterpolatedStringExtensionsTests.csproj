@@ -19,7 +19,7 @@
     </ItemGroup>
 
     <ItemGroup>
-        <ProjectReference Include="..\InterpolatedLog\InterpolatedLog.csproj"/>
+        <ProjectReference Include="..\InterpolatedStringExtensions\InterpolatedStringExtensions.csproj"/>
     </ItemGroup>
 
 </Project>
